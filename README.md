@@ -13,9 +13,8 @@ Estoy formándome en **IA Automation** y aprendiendo a crear soluciones para aut
 ## 🛠️ Herramientas y tecnologías
 
 - ChatGPT / OpenAI
-- Make / Zapier / n8n
+- n8n
 - Google Sheets
-- Notion
 - APIs
 - Python básico
 - GitHub
